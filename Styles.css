@@ -790,7 +790,7 @@ main__content i:hover{
     margin:1rem;
     border-radius:4px;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0)0%,rgba(17,17,17,0.6)100%),
-    url('/img/WhatsApp\ Image\ 2024-12-16\ at\ 11.58.12\ AM.jpeg'); 
+    url('mg/WhatsApp\ Image\ 2024-12-16\ at\ 11.58.12\ AM.jpeg/i'); 
     background-size:cover;
     position:relative;
     color:#fff;
@@ -799,7 +799,7 @@ main__content i:hover{
 }
 .services__card:nth-last-child(1){
     background-image: linear-gradient(to bottom, rgba(0,0,0,0)0%,rgba(17,17,17,0.6)100%),
-    url('/img/WhatsApp\ Image\ 2025-02-01\ at\ 2.34.20\ PM.jpeg');  
+    url('/img/riwaas.svg');  
    
 }
 .services h2{
