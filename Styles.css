@@ -254,7 +254,7 @@ left: 50%;
 }
 .carousel .list .item .author{
     font-weight: bold;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
 }
 .carousel .list .item .title,
 .carousel .list .item .topic{
