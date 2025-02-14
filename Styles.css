@@ -265,7 +265,7 @@ left: 50%;
     
 }
 .carousel .list .item .topic{
-    color: #f1683a;
+    color: #fff;
 }
 .carousel .list .item .buttons{
     display: grid;
@@ -285,6 +285,11 @@ left: 50%;
     background-color: transparent;
     border: 1px solid #fff;
     color: #eee;
+}
+/* Checked */
+.checked{
+    
+   color:#ffa500
 }
 /* thumbail */
 .thumbnail{
