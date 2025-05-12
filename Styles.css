@@ -797,7 +797,7 @@ main__content i:hover{
     margin:1rem;
     border-radius:4px;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0)0%,rgba(17,17,17,0.6)100%),
-    url('img/WhatsApp\ Video\ 2025-05-12\ at\ 10.15.26\ AM.mp4'); 
+    url('img/WhatsApp\ Image\ 2025-02-08\ at\ 10.52.02\ AM.jpeg'); 
     background-size:cover;
     position:relative;
     color:#fff;
@@ -875,6 +875,10 @@ main__content i:hover{
     .services__card{
         width:300px;
     }
+    
+
+        
+    
 
 }
 @media screen and (max-width:480px){
@@ -883,6 +887,8 @@ main__content i:hover{
         font-size:20px;  
 
     }
+    
+    
 }
 @media screen and(max-width:800px){
       .services__container h1{
