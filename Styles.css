@@ -682,7 +682,9 @@ main__content i:hover{
 
 }
 .main__img--container img{
-    border-radius:50%; 
+    display:fles;
+    justify-content:center;
+     
 
 }
 .main__img--container:hover{
