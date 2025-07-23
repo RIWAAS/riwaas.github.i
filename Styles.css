@@ -2,6 +2,7 @@ body::before{
     display:block;
     content:'';
     height:60px;
+   
 }
 @media(min-width:768px){
     .news-input{
@@ -678,11 +679,11 @@ main__content i:hover{
 
 .main__img--container {
     text-align: center;
-    height:50%;
+    height:40%;
 
 }
 .main__img--container img{
-    display:fles;
+    display:flex;
     justify-content:center;
      
 
@@ -741,6 +742,15 @@ main__content i:hover{
     .main__content p {
         margin-top: 2rem;
         font-size: 1.5rem;
+    }
+    .main__img--container{
+        display: grid;
+        grid-template-columns: auto;
+        align-items: center;
+        justify-self: center;
+        width: 100%;
+        margin: 0 auto;
+        height: 90vh
     }
 }
 
@@ -860,6 +870,7 @@ main__content i:hover{
         
 
     }
+    
 
 }
 @media screen and (max-width:480px){
@@ -875,9 +886,7 @@ main__content i:hover{
 
     }
     .services__card{
-        width:300px;
     }
-    
 
         
     
