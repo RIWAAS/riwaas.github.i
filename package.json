@@ -1,0 +1,22 @@
+{
+  "name": "riwaas-guest-house",
+  "version": "1.0.0",
+  "description": "Riwaa's Guest House website with interactive features and e-commerce functionality",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 3000",
+    "start": "npx http-server . -p 3000"
+  },
+  "keywords": [
+    "guest-house",
+    "hotel",
+    "booking",
+    "shillong",
+    "meghalaya"
+  ],
+  "author": "Riwaa's Guest House",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
